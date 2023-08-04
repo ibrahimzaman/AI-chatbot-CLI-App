@@ -19,11 +19,11 @@ Before running the CLI chat bot, you need to have the following installed:
 
 ## Installation
 
-1. Clone the repository from GitHub:
+1. Clone the repository from GitHub.
 
-2. Install the dependencies:
+2. Install the dependencies.
 
-3. Get your OpenAI API key:
+3. Get your OpenAI API key.
 
    - Sign up for an account on the OpenAI website: https://openai.com
    - Retrieve your API key from the OpenAI dashboard.
